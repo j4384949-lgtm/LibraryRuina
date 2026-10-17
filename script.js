@@ -4,7 +4,7 @@
 
 // 디스코드 초대 링크
 const DISCORD_INVITE_URL =
-    "https://discord.gg/wdGXYjYZX";
+    "https://discord.gg/pvdBfrK57x";
 
 
 // 유튜브 영상 ID
